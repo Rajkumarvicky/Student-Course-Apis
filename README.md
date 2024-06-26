@@ -1,7 +1,7 @@
 # Student-Course-Apis
 
 ## Description
-Fetch Student Course details
+An collection of apis to get courses, course types, transfered credit course list, changed course description job results.
  
 ## Setup Instructions
 Postman
